@@ -75,7 +75,8 @@ api/v1/user/user username="user" password="pass" fullName="John Doe"
 4. **OPTIONS**: Documentación del recurso.
 ## Créditos
 Desarrollado por:
-- Carlos Romero Morales 2660832
+- Carlos Romero Morales 
+- 2660832
 
 ## Licencia
 El código está disponible bajo la licencia **GNU GPL-3.0**. Consulte el archivo LICENSE en la raíz del proyecto para más información.
